@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_account"
+        android:icon="@drawable/ic_account_top"
+        android:title="My Account"/>
+
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_events"
+        android:icon="@drawable/ic_esports"
+        android:title="View Events"/>
+
+    <item android:id="@+id/nav_casino"
+        android:icon="@drawable/ic_casino"
+        android:title="Enter the Casino"/>
+
+    <item android:id="@+id/nav_sendcash"
+        android:icon="@drawable/ic_sendcash"
+        android:title="Transfer Cash"/>
+
+    <item android:id="@+id/nav_ad"
+        android:icon="@drawable/ic_rating_top"
+        android:title="Watch Advertisements"/>
+
+    <item android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout_top"
+        android:title="Logout"/>
+
+</menu>
